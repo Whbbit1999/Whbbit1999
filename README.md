@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm WxW, a Front-end developer.
+I'm WANG XiaoWei, a Front-end developer.
 
 Visit my [website/blog](https://www.whbbit.cn)
 
