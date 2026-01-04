@@ -2,7 +2,7 @@
 
 I'm WANG XiaoWei, a Front-end developer.
 
-Visit my [website/blog](https://www.whbbit.cn)
+Visit my [website/blog](https://www.weilog.me)
 
 Or follow me on [bsky](https://bsky.app/profile/bitmc.bsky.social)/[哔哩哔哩](https://space.bilibili.com/104376935)
 
