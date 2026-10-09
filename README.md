@@ -4,7 +4,7 @@ I'm WANG XiaoWei, a Front-end developer.
 
 Visit my [website/blog](https://www.weilog.me)
 
-Or follow me on [bsky](https://bsky.app/profile/bitmc.bsky.social)/[哔哩哔哩](https://space.bilibili.com/104376935)
+Or follow me on [x](https://x.com/whbbit1999)/[bsky](https://bsky.app/profile/bitmc.bsky.social)/[哔哩哔哩](https://space.bilibili.com/104376935)
 
 <!--
 **Whbbit1999/Whbbit1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
