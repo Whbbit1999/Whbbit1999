@@ -1,22 +1,13 @@
 ## Hi 👋
 
-I'm XiaoWei WANG, a Front-end developer.
+I'm Xiaowei Wang, a frontend developer.
 
-Visit my [website/blog](https://www.weilog.me)
+Visit my [blog](https://www.weilog.me), or find me on [X](https://x.com/whbbit1999).
 
-Or follow me on [x](https://x.com/whbbit1999)/[bsky](https://bsky.app/profile/propshow.bsky.social)/[哔哩哔哩](https://space.bilibili.com/104376935)/[YouTube](https://www.youtube.com/@PropShowFM)
+### PropShow
 
-<!--
-**Whbbit1999/Whbbit1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I also create frontend content on **PropShow**.
 
-Here are some ideas to get you started:
+Watch on [哔哩哔哩](https://space.bilibili.com/104376935) · [YouTube](https://www.youtube.com/@PropShowFM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Follow on [Bluesky](https://bsky.app/profile/propshow.bsky.social)
